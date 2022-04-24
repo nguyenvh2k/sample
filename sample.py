@@ -3,6 +3,9 @@
 # Standard heapify function to heapify a
 # subtree rooted under idx. It assumes that
 # subtrees of node are already heapified.
+print("Hello")
+print("Hello")
+print("Hello")
 def MaxHeapify(arr, n, idx):
 	
 	# Find largest of node and
